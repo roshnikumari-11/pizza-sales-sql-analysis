@@ -2,7 +2,7 @@
 
 This project is a complete **SQL data analysis case study** based on a pizza sales dataset. It was completed by following a YouTube tutorial and involves solving various business questions using SQL. The dataset was provided in CSV format and imported into a MySQL database for analysis.
 
-[![View Presentation](./preview_slide.gif)](./pizza_sql_project_canva_presentation-compressed.pdf)
+[![View Presentation](./preview_slide.gif)](./pizza_sales_project_canva_presentation-compressed.pdf)
 
 
 
@@ -58,7 +58,7 @@ Each SQL query solution is documented with a **screenshot** of the result, compi
 
 You can view the full Canva presentation (with SQL query screenshots and results) here:
 
-👉 [Pizza SQL Project Presentation (PDF)](./pizza_sql_project_canva_presentation-compressed.pdf)
+👉 [Pizza SQL Project Presentation (PDF)](./pizza_sales_project_canva_presentation-compressed.pdf)
 
 ---
 
